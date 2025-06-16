@@ -34,7 +34,7 @@ STOKO Project는 편의점 내 관리자/사용자를 통합 관리하여, 편�
 MVC 패턴으로 유지보수 용이성과 역할 분리 통한 효율적 개발 달성
 
 ## 📊 논리적 모델링
-![STOKO 논리적 모델링]STOKO 논리적 모델링.png
+![STOKO 논리적 모델링][STOKO 논리적 모델링.png](https://raw.githubusercontent.com/hyojunbang9/javapjt-stoko2/fd3871922caa65b5935d06553d66cc77538b99aa/STOKO%20%EB%85%BC%EB%A6%AC%EC%A0%81%20%EB%AA%A8%EB%8D%B8%EB%A7%81.png)
 
 ## 🗂️ 메뉴 요약
 
